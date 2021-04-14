@@ -1,0 +1,55 @@
+{
+    "token": "ODMxMjkxNjQ4Nzg4NjYwMjU0.YHTGrQ.KTymGVlW3CKctM2kCJYP4iH_Nf0",
+    "prefix": "!",
+    "greeting": {
+        "channelWelcome": "831324453240963122",
+        "channelTest": "831304071092764723",
+        "channelRules": "648126344168865793",
+        "serverName": "𝐓𝐇𝐄 𝐍𝐈𝐓𝐑𝐎𝐔𝐒 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘",
+        "serverIcon": "https://cdn.discordapp.com/attachments/702708620726632458/831292254135648326/PP.jpg",
+        "roleBase": "648533683556450314",
+        "mainColor": "#90F3FF",
+        "colorYellow": "FFBC00",
+        "colorRed": "FA3939",
+        "colorGreen": "78F7BD"
+    },
+    "reactionRole": {
+        "778730957162414112": {
+            "removable": true,
+            "emojis": [{
+                "name": "🟣",
+                "roles": "778682700533727233"
+            }, {
+                "name": "🔴",
+                "roles": "778682703116894238"
+            }, {
+                "name": "🔵",
+                "roles": "778682708145602560"
+            }, {
+                "name": "🟢",
+                "roles": "778682705436344342"
+            }, {
+                "name": "🟡",
+                "roles": "778682710255599649"
+            }]
+        }
+    },
+    "serverState": {
+        "msgLogsState": {
+            "statue": "ON",
+            "date": "Aucune",
+            "éxécutant": "Aucun(e)"
+        },
+        "logsState": {
+            "statue": "ON",
+            "date": "Aucune",
+            "éxécutant": "Aucun(e)"
+        },
+        "joinState": {
+            "statue": "ON",
+            "date": "Aucune",
+            "éxécutant": "Aucun(e)"
+        }
+    },
+    "logsChannelID": "791102918551273512"
+}
